@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="3r+58eLE*v8Ah(QUuPCA" x="40" y="51"><statement name="HANDLER"><block type="device_show_leds" id="a@b6p00Hqu#)G(!uF|))"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # # # # # 
+        . # . # . 
+        . # # # .
+        `</field><next><block type="device_clear_display" id="XOQ1}tjLxu==Jv=v}gJ;"></block></next></block></statement></block><block type="device_forever" id="$FcG-nc73`;G^_m0ye?u" x="311" y="121"><statement name="HANDLER"><block type="basic_show_arrow" id="HZ{LU^Or*uv{Y~xkVBne"><value name="i"><shadow type="device_arrow" id="gV_#r|xP?$sDWYu/H{eT"><field name="arrow">ArrowNames.North</field></shadow></value><next><block type="device_pause" id="lE65p(Dpf8^g50REAV$`"><value name="pause"><shadow type="timePicker" id="Ih5|2ELKA{4f2zqcNIu@"><field name="ms">1000</field></shadow></value><next><block type="basic_show_arrow" id="o]H9#jT{s#pl(+GxO$?v"><value name="i"><shadow type="device_arrow" id="YCh=u?qXm~b~Pywf;j#$"><field name="arrow">ArrowNames.East</field></shadow></value><next><block type="basic_show_arrow" id="nlp6?/I-a3:Kg}uRUXU7"><value name="i"><shadow type="device_arrow" id="ER]0!z]a6WDN7PXT2p{:"><field name="arrow">ArrowNames.North</field></shadow></value><next><block type="device_pause" id="_t:Ry[;]o3[0L6;H[zN~"><value name="pause"><shadow type="timePicker" id="T$ixu,mBBnbqR5oOm=q/"><field name="ms">2000</field></shadow></value><next><block type="basic_show_arrow" id=")]lQ8UDVfKW}Rs_oQb=2"><value name="i"><shadow type="device_arrow" id="=[@s4Udg*eRqW)V7!~w*"><field name="arrow">ArrowNames.West</field></shadow></value><next><block type="basic_show_arrow" id="|LWd:XM]L^29Nf/_5[yE"><value name="i"><shadow type="device_arrow" id="{IMC,@xiDjJa@dVWy5A#"><field name="arrow">ArrowNames.North</field></shadow></value><next><block type="device_pause" id="Tldp%LQ=^(Hj6MBV2UCm"><value name="pause"><shadow type="timePicker" id="-_RLQ|*`9GX1ghU]yFT="><field name="ms">450</field></shadow></value><next><block type="basic_show_arrow" id="!gA,$K0=$cXt-n41K{Kq"><value name="i"><shadow type="device_arrow" id="T$@8oQM;a4i078+T1!cD"><field name="arrow">ArrowNames.West</field></shadow></value><next><block type="device_show_leds" id="XGU5|o2[#9i0Wz9fXguY"><field name="LEDS">`
+        # . . . # 
+        . # . # . 
+        . . # . . 
+        . # . # . 
+        # . . . #
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
